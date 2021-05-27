@@ -1,8 +1,35 @@
 {
+"find": [  
+    {
+        "itemLargo": "1234",
+        "DescripcionAmpliada": "Descripcion Item 01",
+        "TipoAlmacenamiento": "P",
+        "UOM": "Kg",
+        "CantidadPuntoOrden": "45",
+        "PuntoReorden": "55"
+    },
+    {
+        "itemLargo": "5678",
+        "DescripcionAmpliada": "Descripcion Item 02",
+        "TipoAlmacenamiento": "U",
+        "UOM": "U",
+        "CantidadPuntoOrden": "34",
+        "PuntoReorden": "344"
+    },
+    {
+        "itemLargo": "91011",
+        "DescripcionAmpliada": "Descripcion Item 03",
+        "TipoAlmacenamiento": "M",
+        "UOM": "Unidades",
+        "CantidadPuntoOrden": "343",
+        "PuntoReorden": "3444"
+    }
+ ], 
+  
 "material": [  
   {
-  "itemLargo":"11401200087",
-  "ubicacionPrimaria":"D03M02E011P06",
+  "itemLargo":"10",
+  "ubicacionPrimaria":"1001400y",
   "ubicacionSecundaria":" ",
   "qfisica":"10",
   "qdisponible":"3",
@@ -12,8 +39,8 @@
   },
 
   {
-  "itemLargo":"21401200087",
-  "ubicacionPrimaria":"D03M02E011P06",
+  "itemLargo":"20",
+  "ubicacionPrimaria":"1001400",
   "ubicacionSecundaria":" ",
   "qfisica":"11",
   "qdisponible":"3",
@@ -23,7 +50,7 @@
   },
 
   {
-  "itemLargo":"31401200087",
+  "itemLargo":"30",
   "ubicacionPrimaria":"D03M02E011P07",
   "ubicacionSecundaria":" ",
   "qfisica":"12",
@@ -34,7 +61,7 @@
   },
 
   {
-  "itemLargo":"431401200087",
+  "itemLargo":"40",
   "ubicacionPrimaria":"D03M02E011P06",
   "ubicacionSecundaria":" ",
   "qfisica":"13",
