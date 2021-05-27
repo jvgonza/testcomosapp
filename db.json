@@ -1,6 +1,7 @@
 {
 "find": [  
     {
+        "id": 1,
         "itemLargo": "1234",
         "DescripcionAmpliada": "Descripcion Item 01",
         "TipoAlmacenamiento": "P",
@@ -9,6 +10,7 @@
         "PuntoReorden": "55"
     },
     {
+        "id": 2,
         "itemLargo": "5678",
         "DescripcionAmpliada": "Descripcion Item 02",
         "TipoAlmacenamiento": "U",
@@ -17,6 +19,7 @@
         "PuntoReorden": "344"
     },
     {
+        "id": 3,
         "itemLargo": "91011",
         "DescripcionAmpliada": "Descripcion Item 03",
         "TipoAlmacenamiento": "M",
