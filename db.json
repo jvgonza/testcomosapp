@@ -16,7 +16,7 @@
   "ubicacionPrimaria":"D03M02E011P06",
   "ubicacionSecundaria":" ",
   "qfisica":"11",
-  "qdisponible":"4",
+  "qdisponible":"3",
   "qtransito": "0",
   "criticidad":"NO CRÍTICOS",
   "costo":"2.6212"
@@ -24,12 +24,12 @@
 
   {
   "itemLargo":"31401200087",
-  "ubicacionPrimaria":"D03M02E011P06",
+  "ubicacionPrimaria":"D03M02E011P07",
   "ubicacionSecundaria":" ",
   "qfisica":"12",
   "qdisponible":"5",
   "qtransito": "0",
-  "criticidad":"NO CRÍTICOS",
+  "criticidad":"CRÍTICOS",
   "costo":"3.6212"
   },
 
@@ -38,7 +38,7 @@
   "ubicacionPrimaria":"D03M02E011P06",
   "ubicacionSecundaria":" ",
   "qfisica":"13",
-  "qdisponible":"6",
+  "qdisponible":"5",
   "qtransito": "0",
   "criticidad":"NO CRÍTICOS",
   "costo":"4.6212"
