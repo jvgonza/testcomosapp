@@ -1,7 +1,7 @@
 {
 "find": [  
     {
-        "id": "1",
+        "id": 1,
         "itemLargo": "1234",
         "DescripcionAmpliada": "Descripcion Item 01",
         "TipoAlmacenamiento": "P",
@@ -10,7 +10,7 @@
         "PuntoReorden": "55"
     },
     {
-        "id": "2",
+        "id": 2,
         "itemLargo": "5678",
         "DescripcionAmpliada": "Descripcion Item 02",
         "TipoAlmacenamiento": "U",
@@ -19,7 +19,7 @@
         "PuntoReorden": "344"
     },
     {
-        "id": "3",
+        "id": 3,
         "itemLargo": "91011",
         "DescripcionAmpliada": "Descripcion Item 03",
         "TipoAlmacenamiento": "M",
@@ -31,7 +31,7 @@
   
 "material": [  
   {
-  "id": "1",
+  "id": 1,
   "itemLargo":"10",
   "ubicacionPrimaria":"1001400y",
   "ubicacionSecundaria":" ",
@@ -43,7 +43,7 @@
   },
 
   {
-  "id": "2",
+  "id": 2,
   "itemLargo":"20",
   "ubicacionPrimaria":"1001400",
   "ubicacionSecundaria":" ",
@@ -55,7 +55,7 @@
   },
 
   {
-  "id": "3",
+  "id": 3,
   "itemLargo":"30",
   "ubicacionPrimaria":"D03M02E011P07",
   "ubicacionSecundaria":" ",
@@ -67,7 +67,7 @@
   },
 
   {
-  "id": "4",
+  "id": 4,
   "itemLargo":"40",
   "ubicacionPrimaria":"D03M02E011P06",
   "ubicacionSecundaria":" ",
